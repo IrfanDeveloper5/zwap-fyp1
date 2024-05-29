@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730178474817",
+    "project_id": "zwapfyp113",
+    "storage_bucket": "zwapfyp113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730178474817:android:e0a3f6795f9c72f41487c0",
+        "android_client_info": {
+          "package_name": "com.example.zwap_fyp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5V-B52DhuPg2g_fpVSo_wmWc9iqV9glk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
